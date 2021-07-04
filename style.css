@@ -13,10 +13,11 @@ section{
 }
 .c1{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 6%;
 }
 .c1 img{
     width: 75%;
+    padding-top: 5%;
 }
 .l1{
 text-decoration: none;
